@@ -6,7 +6,7 @@ class Prime {
         }
         return true;
     }
-
+//56
     public static void main(String[] args) {
         System.out.println(isPrime(11)); // Output: true
         System.out.println(isPrime(15)); // Output: false
