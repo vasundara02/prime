@@ -6,6 +6,7 @@ class Prime {
         }
         return true;
     }
+    //78
 //56
     //45
     public static void main(String[] args) {
